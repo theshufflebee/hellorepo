@@ -1,12 +1,22 @@
 ---
-title: "Hello Markdown"
-author: "theshufflebee"
-date: "2025-03-18"
-output:
-  html_document:
+output: 
+  html_document: 
     keep_md: true
 ---
+I am brilliance
 
+
+
+
+``` r
+x <- "Hello Md"
+
+print(x)
+```
+
+```
+## [1] "Hello Md"
+```
 
 
 ## R Markdown
