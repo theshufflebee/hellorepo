@@ -1,15 +1,15 @@
----
-title: "Hello Markdown"
-author: "theshufflebee"
-date: "2025-03-18"
-output:
-  html_document:
-    keep_md: true
----
+I am brilliance
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+```{r}
+x <- "Hello Md"
+
+print(x)
+```
+
 
 ## R Markdown
 
