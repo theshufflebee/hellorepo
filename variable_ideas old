@@ -1,0 +1,35 @@
+main x = president red or blue
+main y = gdp variation
+
+
+
+x variables:
+time since election
+congress composition
+house composition
+senate composition
+supreme court composition
+commodity prices
+bank reserves
+gold price
+construction spending
+consumer sentiment (risk aversion)
+
+
+
+y variables:
+unemployment 
+deficit
+interest rate
+private consumption
+private investment
+inflation
+treasury yields
+smp500
+
+
+
+
+
+random ideas:
+look at differences in time since SWITCH
